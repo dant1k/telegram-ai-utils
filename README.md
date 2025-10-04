@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://github.com/dant1k/telegram-ai-utils/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <img src="https://github.com/dant1k/telegram-ai-utils/actions/workflows/codeql.yml/badge.svg" alt="CodeQL" />
+</p>
+
 <h1 align="center">🧩 telegram-ai-utils</h1>
 <p align="center">
   <b>Reusable utilities for Telegram bots built with Aiogram 3.x</b><br>
